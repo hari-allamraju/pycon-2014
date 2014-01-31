@@ -1,0 +1,7 @@
+requests
+celery-with-redis
+flower
+redis
+lxml
+simplejson
+pyeurofx
