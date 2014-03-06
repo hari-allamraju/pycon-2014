@@ -5,3 +5,4 @@ redis
 lxml
 simplejson
 pyeurofx
+networkx
