@@ -6,3 +6,4 @@ simplejson
 pyeurofx
 networkx
 ipython
+pyzmq
